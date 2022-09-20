@@ -5,3 +5,4 @@
 - **Pronomes:** Lorde, senhor, Mr blue sky.
 - **Tecnologias cotidianas:** PHP, JS, laravel, postgres, git, gitlab, github, linux.
 - **Emprego atual:** [DBSeller](https://www.dbseller.com.br)
+- **Atualmente lendo:** [Meditações - Marco Aurélio](https://en.wikipedia.org/wiki/Meditations)
