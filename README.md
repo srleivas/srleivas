@@ -13,6 +13,5 @@
 - **Pronomes:** Lorde, senhor, Mr blue sky.
 - **Tecnologias cotidianas:** PHP, JS, laravel, postgres, git, gitlab, github, linux.
 - **Emprego atual:** [DBSeller](https://www.dbseller.com.br)
-- **Atualmente lendo:** [Cartas de Sêneca à Lucílio](https://pt.wikipedia.org/wiki/Epistulae_morales_ad_Lucilium)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinicius-leivas-7b0348155/)
