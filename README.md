@@ -10,6 +10,7 @@
 </details>
 
 - **Pronomes:** O cara.
+- **Emprego atual:** [DBSeller](https://www.dbseller.com.br)
 - **Tecnologias cotidianas:**
     * PHP
     * Javascript
@@ -18,6 +19,5 @@
     * Postgres
     * Gitlab
     * Linux
-- **Emprego atual:** [DBSeller](https://www.dbseller.com.br)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinicius-leivas-7b0348155/)
