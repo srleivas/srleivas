@@ -11,12 +11,12 @@
 
 - **Pronomes:** O cara.
 - **Tecnologias cotidianas:**
-    * PHP,
-    * Javascript,
+    * PHP
+    * Javascript
     * VueJs
-    * Laravel,
-    * Postgres,
-    * Gitlab,
+    * Laravel
+    * Postgres
+    * Gitlab
     * Linux
 - **Emprego atual:** [DBSeller](https://www.dbseller.com.br)
 
