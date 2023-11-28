@@ -5,11 +5,11 @@
 ![Status das linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=nocdevx&layout=compact&theme=dark)
 
 ## 🗀 Projetos em Destaque
-<a href="https://github.com/NpcDevX/kaitos">
+<a href="https://github.com/NocDevX/kaitos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NocDevX&repo=kaitos&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="kaitos" />
 </a>
 
-<a href="https://github.com/NpcDevX/kaitos-api">
+<a href="https://github.com/NocDevX/kaitos-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NocDevX&repo=kaitos-api&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="kaitos-api" />
 </a>
 
