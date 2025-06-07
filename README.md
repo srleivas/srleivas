@@ -16,3 +16,4 @@
 ## 📱 Contato
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinicius-leivas-7b0348155/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LeivasVinicius)
+[![Instagram](https://img.shields.io/badge/-sr_leivas-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/sr_leivas/)](https://instagram.com/sr_leivas)
