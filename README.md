@@ -1,4 +1,3 @@
-## 👋 Fala fiote
 ![Status](https://github-readme-stats.vercel.app/api?username=srleivas&show_icons=true&theme=dark)
 
 ## ䷴ Linguagens
